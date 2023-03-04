@@ -17,7 +17,7 @@ public class Main {
 
 
 
-        // Ejercicion While
+        // Ejercicio While
 
         System.out.println("""
                 Crea un bucle While, este bucle tendrá que tener como condición que la variable
